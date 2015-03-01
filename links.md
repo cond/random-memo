@@ -11,9 +11,12 @@
 * [「1人につき、たった1つの仕事しかしてはならない」?Paypal創業者ピーター・ティールの教え | ログミー[o_O]](http://logmi.jp/39767)
 
 * [「やる気があるわけじゃない。真剣に流されてるだけ」 ドワンゴ・川上量生氏の人生哲学 | ログミー[o_O]](http://logmi.jp/39053)
+* [常に自分より弱い敵を求めて…　 川上量生氏が語った、「僕が強敵に挑まない理由」 | ログミー[o_O]](http://logmi.jp/39055)
 
 * [スタートアップへのアドバイス　ーY CombinatorのSam Altman氏 | StartupClass Note](http://ycschool.jp/startupadvice/)
 
 * [ZERO to ONE ーPayPalのPeter Thiel氏 | StartupClass Note](http://ycschool.jp/zerotoone/)
+
+* [会社の売却後、創業者は“ロックアップ期間”のモチベーションをどう維持する？　--若手経営者に質問 | ログミー[o_O]](http://logmi.jp/40491)
 
 ## Tech
