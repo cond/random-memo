@@ -19,4 +19,6 @@
 
 * [会社の売却後、創業者は“ロックアップ期間”のモチベーションをどう維持する？　--若手経営者に質問 | ログミー[o_O]](http://logmi.jp/40491)
 
+* [スタートアップ共同創業者の見つけ方、付き合い方、別れ方](http://www.slideshare.net/takaumada/how-to-find-your-best-cofounder)
+
 ## Tech
