@@ -1,6 +1,7 @@
 # Links
 
-* [マーケティングを捨てよ、サポートへ出よう　事例から見るスタートアップ初期におけるユーザー獲得](http://www.slideshare.net/takaumada/throw-away-your-marketing-rally-in-the-sales-and-customer-support)
+## Startup
+
 * [マーケティングを捨てよ、サポートへ出よう　事例から見るスタートアップ初期におけるユーザー獲得](http://www.slideshare.net/takaumada/throw-away-your-marketing-rally-in-the-sales-and-customer-support)
 * [グリーCTO藤本真樹の　エンジニアよろず相談室 - 質問：マネジャーを続けるかエンジニアに戻るかで葛藤しています：ITpro](http://itpro.nikkeibp.co.jp/atcl/column/14/090100052/022500013/)
 * [LinkedIn創業者リード・ホフマン「起業家は常に“両方”を取れ」 自分を信じながら疑い、柔軟で頑固に | ログミー[o_O]](http://logmi.jp/36553)
@@ -14,3 +15,5 @@
 * [スタートアップへのアドバイス　ーY CombinatorのSam Altman氏 | StartupClass Note](http://ycschool.jp/startupadvice/)
 
 * [ZERO to ONE ーPayPalのPeter Thiel氏 | StartupClass Note](http://ycschool.jp/zerotoone/)
+
+## Tech
