@@ -22,3 +22,5 @@
 * [スタートアップ共同創業者の見つけ方、付き合い方、別れ方](http://www.slideshare.net/takaumada/how-to-find-your-best-cofounder)
 
 ## Tech
+
+* [JavaScriptのデバッグ方法 – JSを嫌いにならないためのTips ](http://postd.cc/how-to-not-hate-javascript-tips-from-the-frontline/) 　　さまざまなテクニックが紹介されている
