@@ -28,3 +28,5 @@
 ## Node.js
 
 * [Node + Socket.IO で簡単なチャットアプリの作成 ｜ Developers.IO](http://dev.classmethod.jp/server-side/language/node-socket-io/)
+* [Node.js+Express+MongoDBでWeb APIをつくる - Qiita](http://qiita.com/itagakishintaro/items/a1519998a91061cbfb1e)
+* [Node.js+Express+MongoDBでSessionを利用してログイン機能を実装 - Qiita](http://qiita.com/n0bisuke/items/2514197d8791abbc7d87)
