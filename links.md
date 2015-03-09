@@ -21,6 +21,9 @@
 
 * [スタートアップ共同創業者の見つけ方、付き合い方、別れ方](http://www.slideshare.net/takaumada/how-to-find-your-best-cofounder)
 
+* [GMOペパボ攻勢の裏側にあった「技術的負債を抱えない開発体制づくり」3つの布石 - エンジニアtype](http://engineer.typemag.jp/article/pepabo-dev)
+* [「人生のコツはたったの3つ」Dropbox創業者ドリュー・ヒューストンの卒業スピーチが感動的 | ログミー[o_O]](http://logmi.jp/8845)
+
 ## Tech
 
 * [JavaScriptのデバッグ方法 – JSを嫌いにならないためのTips ](http://postd.cc/how-to-not-hate-javascript-tips-from-the-frontline/) 　　さまざまなテクニックが紹介されている
@@ -32,6 +35,8 @@
 * [Node.js+Express+MongoDBでSessionを利用してログイン機能を実装 - Qiita](http://qiita.com/n0bisuke/items/2514197d8791abbc7d87)
 * [AdventCalendar - Node.js(Express) と MongoDB で RESTful な API サーバを作る - Qiita](http://qiita.com/hkusu/items/9bb59541c64696b15730)
 
-** To Read
+* [Express.js 4, Node.js and MongoDB REST API Tutorial](http://webapplog.com/express-js-4-node-js-and-mongodb-rest-api-tutorial/)
+
+## To Read
 
 * [Takazudolog - OOCSSとSass](http://takazudo.github.io/blog/entry/2012-12-10-oocsssass.html)
