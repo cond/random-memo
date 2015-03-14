@@ -36,6 +36,10 @@
 * [AdventCalendar - Node.js(Express) と MongoDB で RESTful な API サーバを作る - Qiita](http://qiita.com/hkusu/items/9bb59541c64696b15730)
 
 * [Express.js 4, Node.js and MongoDB REST API Tutorial](http://webapplog.com/express-js-4-node-js-and-mongodb-rest-api-tutorial/)
+
+## CMS
+
+* [Github Pagesでブログ構築ができる静的サイトジェネレーター総まとめ - Qiita](http://qiita.com/okmttdhr/items/82ecb0332835472e905f)
  
 ## Study
 
