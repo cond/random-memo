@@ -48,6 +48,7 @@
 ## Study
 
 * [言語処理100本ノック 2015](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
+* [950ページ超え！　Androidアプリの開発入門テキスト](http://masatolan.com/internet/android-app-book/)
 
 ## To Read
 
