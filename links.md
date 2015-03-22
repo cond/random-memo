@@ -26,7 +26,7 @@
 
 ## Paul Gragham
 
-* [らいおんの隠れ家 : ポール・グレアム「良い後回し、悪い後回し」](http://blog.livedoor.jp/lionfan/archives/52909819.html)　　雑用は後回しにして、大きな（本質的な）問題に取り組もう、という話。
+* [ポール・グレアム「良い後回し、悪い後回し」](http://blog.livedoor.jp/lionfan/archives/52909819.html)　　雑用は後回しにして、大きな（本質的な）問題に取り組もう、という話。
 
 ## Tech
 
