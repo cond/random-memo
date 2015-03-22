@@ -24,6 +24,10 @@
 * [GMOペパボ攻勢の裏側にあった「技術的負債を抱えない開発体制づくり」3つの布石 - エンジニアtype](http://engineer.typemag.jp/article/pepabo-dev)
 * [「人生のコツはたったの3つ」Dropbox創業者ドリュー・ヒューストンの卒業スピーチが感動的 | ログミー[o_O]](http://logmi.jp/8845)
 
+## Paul Gragham
+
+* [らいおんの隠れ家 : ポール・グレアム「良い後回し、悪い後回し」 - livedoor Blog（ブログ）](http://blog.livedoor.jp/lionfan/archives/52909819.html)　　雑用は後回しにして、大きな（本質的な）問題に取り組もう、という話。
+
 ## Tech
 
 * [JavaScriptのデバッグ方法 – JSを嫌いにならないためのTips ](http://postd.cc/how-to-not-hate-javascript-tips-from-the-frontline/) 　　さまざまなテクニックが紹介されている
