@@ -30,7 +30,7 @@
 
 ## Tech
 
-* [JavaScriptのデバッグ方法 – JSを嫌いにならないためのTips ](http://postd.cc/how-to-not-hate-javascript-tips-from-the-frontline/) 　　さまざまなテクニックが紹介されている
+* [JavaScriptのデバッグ方法 ? JSを嫌いにならないためのTips ](http://postd.cc/how-to-not-hate-javascript-tips-from-the-frontline/) 　　さまざまなテクニックが紹介されている
 
 ## Node.js
 
@@ -54,6 +54,16 @@
 * [言語処理100本ノック 2015](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 * [950ページ超え！　Androidアプリの開発入門テキスト](http://masatolan.com/internet/android-app-book/)
 
-## To Read
+
+## 後で読む(その他)
+
+* [ウィル・スティーヴン 「頭良さそうにTED風プレゼンをする方法」 - YouTube](https://www.youtube.com/watch?v=ToJD5r2SmwI)
+* [英語で書いたブログの添削をoDeskにアウトソースしたら衝撃を受けた | うめのんブログ](http://umenon.com/2015/03/23/odesk_blog/)
+
+## 後で読む(技術系)
 
 * [Takazudolog - OOCSSとSass](http://takazudo.github.io/blog/entry/2012-12-10-oocsssass.html)
+* [Ubuntu で GitLab を Omnibus に移行し GitLab CI も使い始める - tilfin's note](http://tilfin.hatenablog.com/entry/2015/02/08/180944)
+* [【翻訳】AngularJSからReactへ: Isomorphicな方法 | POSTD](http://postd.cc/from-angularjs-to-react-the-isomorphic-way/)
+* [【翻訳】NginxでHTTPS : ゼロから始めてSSLの評価をA+にするまで（Part 1） | POSTD](http://postd.cc/https-on-nginx-from-zero-to-a-plus-part-1/)
+* [AutoScaling時にAnsibleで環境構築を行う ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/using-ansible-at-autoscaling-launching/)
