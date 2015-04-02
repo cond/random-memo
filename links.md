@@ -53,6 +53,7 @@
 
 * [言語処理100本ノック 2015](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 * [950ページ超え！　Androidアプリの開発入門テキスト](http://masatolan.com/internet/android-app-book/)
+* [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)  Pythonを使ったStanfordの授業教材
 
 
 ## 後で読む(その他)
