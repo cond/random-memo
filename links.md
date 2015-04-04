@@ -68,3 +68,4 @@
 * [【翻訳】AngularJSからReactへ: Isomorphicな方法 | POSTD](http://postd.cc/from-angularjs-to-react-the-isomorphic-way/)
 * [【翻訳】NginxでHTTPS : ゼロから始めてSSLの評価をA+にするまで（Part 1） | POSTD](http://postd.cc/https-on-nginx-from-zero-to-a-plus-part-1/)
 * [AutoScaling時にAnsibleで環境構築を行う ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/using-ansible-at-autoscaling-launching/)
+* [$30で始めるFPGA](http://www.slideshare.net/yukitakatakemura/30fpga)
