@@ -24,13 +24,21 @@
 * [GMOペパボ攻勢の裏側にあった「技術的負債を抱えない開発体制づくり」3つの布石 - エンジニアtype](http://engineer.typemag.jp/article/pepabo-dev)
 * [「人生のコツはたったの3つ」Dropbox創業者ドリュー・ヒューストンの卒業スピーチが感動的 | ログミー[o_O]](http://logmi.jp/8845)
 
+* [「表面まねてもダメ」インターネットの父が語る、日本がシリコンバレーになれない理由 | HRナビ by リクルート](http://hrnabi.com/2015/03/27/6389/?utm_content=buffera96b0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [4人のベンチャーから世界的IT企業に―、ASUS会長が価格をシャウトする理由 | HRナビ by リクルート](http://hrnabi.com/2015/04/03/6509/)
+
+* [あなたのスタートアップのアイデアの育てかた](http://www.slideshare.net/takaumada/how-to-get-your-own-startup-idea-46349038)
+
 ## Paul Gragham
 
 * [ポール・グレアム「良い後回し、悪い後回し」](http://blog.livedoor.jp/lionfan/archives/52909819.html)　　雑用は後回しにして、大きな（本質的な）問題に取り組もう、という話。
 
 ## Tech
 
+## JavaScript
+
 * [JavaScriptのデバッグ方法 ? JSを嫌いにならないためのTips ](http://postd.cc/how-to-not-hate-javascript-tips-from-the-frontline/) 　　さまざまなテクニックが紹介されている
+* [Advent Calendar 2014のフロントエンド周りまとめ | tsuchikazu blog](http://tsuchikazu.net/advent-calendar-2014-frontend/)
 
 ## Node.js
 
@@ -70,3 +78,7 @@
 * [【翻訳】NginxでHTTPS : ゼロから始めてSSLの評価をA+にするまで（Part 1） | POSTD](http://postd.cc/https-on-nginx-from-zero-to-a-plus-part-1/)
 * [AutoScaling時にAnsibleで環境構築を行う ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/using-ansible-at-autoscaling-launching/)
 * [$30で始めるFPGA](http://www.slideshare.net/yukitakatakemura/30fpga)
+
+## その他
+
+* [RapidSSL 1,300円 | SSLストア](http://www.ssl-store.jp/rapidssl/)
