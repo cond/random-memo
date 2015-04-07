@@ -44,6 +44,7 @@
 ## React.js
 
 * [naoya/flux-mdpreview](https://github.com/naoya/flux-mdpreview) Markdown Preview example for Flux with fluxxor and React.js by naoya-san
+* [react-routerでsingle pageなrails scaffold - すぎゃーんメモ](http://d.hatena.ne.jp/sugyan/20150407/1428412140)
 
 ## CMS
 
