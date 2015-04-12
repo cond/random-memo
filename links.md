@@ -79,6 +79,7 @@
 * [AutoScaling時にAnsibleで環境構築を行う ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws/using-ansible-at-autoscaling-launching/)
 * [$30で始めるFPGA](http://www.slideshare.net/yukitakatakemura/30fpga)
 * [【翻訳】モノリシックなRubyからGoによるマイクロサービスへ | POSTD](http://postd.cc/from-a-ruby-monolith-to-microservices-in-go/)
+* [AWSよりGoogle Compute Engineを選びたくなる10の理由](http://yoshidumi.blogspot.jp/2014/01/awsgoogle-compute-engine10.html)
 
 ## その他
 
