@@ -81,6 +81,7 @@
 * [【翻訳】モノリシックなRubyからGoによるマイクロサービスへ | POSTD](http://postd.cc/from-a-ruby-monolith-to-microservices-in-go/)
 * [AWSよりGoogle Compute Engineを選びたくなる10の理由](http://yoshidumi.blogspot.jp/2014/01/awsgoogle-compute-engine10.html)
 * [SolrにWikipediaのデータを入れて遊ぶ](http://www.mwsoft.jp/programming/munou/wikipedia_solr.html)
+* [エラーハンドリングの話、というか歴史](http://nekogata.hatenablog.com/entry/2015/04/11/135231)
 
 ## その他
 
