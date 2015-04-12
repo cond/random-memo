@@ -80,6 +80,7 @@
 * [$30で始めるFPGA](http://www.slideshare.net/yukitakatakemura/30fpga)
 * [【翻訳】モノリシックなRubyからGoによるマイクロサービスへ | POSTD](http://postd.cc/from-a-ruby-monolith-to-microservices-in-go/)
 * [AWSよりGoogle Compute Engineを選びたくなる10の理由](http://yoshidumi.blogspot.jp/2014/01/awsgoogle-compute-engine10.html)
+* [SolrにWikipediaのデータを入れて遊ぶ](http://www.mwsoft.jp/programming/munou/wikipedia_solr.html)
 
 ## その他
 
