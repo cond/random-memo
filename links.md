@@ -82,6 +82,7 @@
 * [AWSよりGoogle Compute Engineを選びたくなる10の理由](http://yoshidumi.blogspot.jp/2014/01/awsgoogle-compute-engine10.html)
 * [SolrにWikipediaのデータを入れて遊ぶ](http://www.mwsoft.jp/programming/munou/wikipedia_solr.html)
 * [エラーハンドリングの話、というか歴史](http://nekogata.hatenablog.com/entry/2015/04/11/135231)
+* [VLDB 2015 | Faster Set Intersection with SIMD instructions by Reducing Branch Mispredictions - Abstract](http://inouehrs.hatenablog.com/entry/2015/04/06/001552)
 
 ## その他
 
