@@ -29,9 +29,16 @@
 
 * [あなたのスタートアップのアイデアの育てかた](http://www.slideshare.net/takaumada/how-to-get-your-own-startup-idea-46349038)
 
+## To read
+
+* [【翻訳】スタートアップの起業アイデアを決める方法 | POSTD](http://postd.cc/startup-ideas/)
+* [相手の立場に立って考える、憎い敵でも…　史上初、奴隷革命を成功させたリーダーに学ぶ“マネジメントの本質” - ログミー](http://logmi.jp/47804) 話の中に、トゥーサン・ルーヴェルチュールが出てきて、びっくり。
+* [4人のベンチャーから世界的IT企業に―、ASUS会長が価格をシャウトする理由 | HRナビ by リクルート](http://hrnabi.com/2015/04/03/6509/)
+
 ## Paul Gragham
 
 * [ポール・グレアム「良い後回し、悪い後回し」](http://blog.livedoor.jp/lionfan/archives/52909819.html)　　雑用は後回しにして、大きな（本質的な）問題に取り組もう、という話。
+* [スタートアップを殺す18の誤り](http://www.aoky.net/articles/paul_graham/startupmistakes.htm)
 
 ## Tech
 
@@ -51,6 +58,7 @@
 
 ## React.js
 
+* [一人React.js Advent Calendar 2014 - Qiita](http://qiita.com/advent-calendar/2014/reactjs)
 * [naoya/flux-mdpreview](https://github.com/naoya/flux-mdpreview) Markdown Preview example for Flux with fluxxor and React.js by naoya-san
 * [react-routerでsingle pageなrails scaffold - すぎゃーんメモ](http://d.hatena.ne.jp/sugyan/20150407/1428412140)
 
@@ -63,6 +71,7 @@
 * [言語処理100本ノック 2015](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 * [950ページ超え！　Androidアプリの開発入門テキスト](http://masatolan.com/internet/android-app-book/)
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)  Pythonを使ったStanfordの授業教材
+* [Melanie Warrick - Neural Nets for Newbies - PyCon 2015 - YouTube](https://www.youtube.com/watch?v=g-BJSl4zV_g)
 
 
 ## 後で読む(その他)
