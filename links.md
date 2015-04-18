@@ -93,6 +93,11 @@
 * [エラーハンドリングの話、というか歴史](http://nekogata.hatenablog.com/entry/2015/04/11/135231)
 * [VLDB 2015 | Faster Set Intersection with SIMD instructions by Reducing Branch Mispredictions - Abstract](http://inouehrs.hatenablog.com/entry/2015/04/06/001552)
 
+* [Purely Functional Smalltalk-72 // Speaker Deck](https://speakerdeck.com/ympbyc/purely-functional-smalltalk-72) SchemeのマクロでSmalltalk-72をシミュレートします。それを踏まえて言語デザインについて考えます。
+* [渋谷JVM#1 Immutable時代のプログラミング言語 Clojure](http://www.slideshare.net/kawasima/shibuya-jvm-1clojure)
+* [Immutable時代のプログラミング言語 Clojure #渋谷JVM - by shigemk2](http://shigemk2.hatenablog.com/entry/shibuyajvm.clojure)
+* [エラーハンドリング・クロニクル #nds41 ](http://nekogata.hatenablog.com/entry/2015/04/11/135231)
+
 ## その他
 
 * [RapidSSL 1,300円 | SSLストア](http://www.ssl-store.jp/rapidssl/)
