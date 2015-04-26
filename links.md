@@ -98,6 +98,12 @@
 * [Immutable時代のプログラミング言語 Clojure #渋谷JVM - by shigemk2](http://shigemk2.hatenablog.com/entry/shibuyajvm.clojure)
 * [エラーハンドリング・クロニクル #nds41 ](http://nekogata.hatenablog.com/entry/2015/04/11/135231)
 
+* [掟破りの数学 ―手強い問題の解き方教えます―: Sanjoy Mahajan ](http://www.amazon.co.jp/dp/4320111095/)
+* [第1回Electron勉強会でClojureでElectronアプリを作るネタを発表してきた](http://blog.greative.jp/archives/1238)
+* [A/Bテストを簡単にWebサイトやアプリに実装するツールまとめ - NAVER まとめ](http://matome.naver.jp/odai/2135722241578457401)
+* [フリーのVM環境を使って、ビッグデータ分析の学習環境をすばやく構築する （1/3）：CodeZine](http://codezine.jp/article/detail/8560)
+* [Open-Closed Principle とデザインパターン](http://www.objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/dp-ocp-2.html)
+
 ## その他
 
 * [RapidSSL 1,300円 | SSLストア](http://www.ssl-store.jp/rapidssl/)
