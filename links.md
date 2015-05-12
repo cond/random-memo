@@ -107,3 +107,4 @@
 ## その他
 
 * [RapidSSL 1,300円 | SSLストア](http://www.ssl-store.jp/rapidssl/)
+* [nginxに1万円以下のワイルドカード証明書を導入してみた - HiLoTECH](http://www.hilotech.jp/blog/it/164)
