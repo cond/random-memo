@@ -74,6 +74,7 @@
 
 * [MySQLテーブル設計入門](http://www.slideshare.net/yoku0825/mysql-47591576)
 * [新入社員必読、データベースの基本を理解しよう](http://itpro.nikkeibp.co.jp/article/COLUMN/20130416/471167/?ST=develop)  SQLの基本が説明されている。正規化とか。
+
 ## Study
 
 * [言語処理100本ノック 2015](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
