@@ -65,7 +65,15 @@
 ## CMS
 
 * [Github Pagesでブログ構築ができる静的サイトジェネレーター総まとめ - Qiita](http://qiita.com/okmttdhr/items/82ecb0332835472e905f)
+
+## 運用
+
+* [運用を楽にするためのアプリケーションコードを書くということ - sonots:blog](http://blog.livedoor.jp/sonots/archives/44075238.html)
  
+## MySQL
+
+* [MySQLテーブル設計入門](http://www.slideshare.net/yoku0825/mysql-47591576)
+* [新入社員必読、データベースの基本を理解しよう](http://itpro.nikkeibp.co.jp/article/COLUMN/20130416/471167/?ST=develop)  SQLの基本が説明されている。正規化とか。
 ## Study
 
 * [言語処理100本ノック 2015](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
@@ -108,3 +116,4 @@
 
 * [RapidSSL 1,300円 | SSLストア](http://www.ssl-store.jp/rapidssl/)
 * [nginxに1万円以下のワイルドカード証明書を導入してみた - HiLoTECH](http://www.hilotech.jp/blog/it/164)
+
