@@ -53,14 +53,16 @@
 * [Node.js+Express+MongoDBでWeb APIをつくる - Qiita](http://qiita.com/itagakishintaro/items/a1519998a91061cbfb1e)
 * [Node.js+Express+MongoDBでSessionを利用してログイン機能を実装 - Qiita](http://qiita.com/n0bisuke/items/2514197d8791abbc7d87)
 * [AdventCalendar - Node.js(Express) と MongoDB で RESTful な API サーバを作る - Qiita](http://qiita.com/hkusu/items/9bb59541c64696b15730)
-
 * [Express.js 4, Node.js and MongoDB REST API Tutorial](http://webapplog.com/express-js-4-node-js-and-mongodb-rest-api-tutorial/)
+* [NodeSchool Tokyo を開催しました - from scratch](http://yosuke-furukawa.hatenablog.com/entry/2015/04/20/104043)
 
 ## React.js
 
 * [一人React.js Advent Calendar 2014 - Qiita](http://qiita.com/advent-calendar/2014/reactjs)
 * [naoya/flux-mdpreview](https://github.com/naoya/flux-mdpreview) Markdown Preview example for Flux with fluxxor and React.js by naoya-san
 * [react-routerでsingle pageなrails scaffold - すぎゃーんメモ](http://d.hatena.ne.jp/sugyan/20150407/1428412140)
+* [乗るしかない！Reactのビッグウェーブに！─isomorphic tokyo meetupに参加してきた | HTML5Experts.jp](https://html5experts.jp/shumpei-shiraishi/14895/)
+* [Rapid React Prototyping : React.jsでUIデザインプロトタイプを作る // Speaker Deck](https://speakerdeck.com/tyshgc/rapid-react-prototyping-react-dot-jsdeuidezainpurototaipuwozuo-ru)
 
 ## CMS
 
@@ -69,11 +71,20 @@
 ## 運用
 
 * [運用を楽にするためのアプリケーションコードを書くということ - sonots:blog](http://blog.livedoor.jp/sonots/archives/44075238.html)
+* [マイクロサービス運用の所感 #m3dev](http://www.slideshare.net/seratch/microservices-ops)
+
+## AWS
+
+* [AWSクラウドデザインパターン](http://aws.clouddesignpattern.org/index.php/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)
  
 ## MySQL
 
 * [MySQLテーブル設計入門](http://www.slideshare.net/yoku0825/mysql-47591576)
 * [新入社員必読、データベースの基本を理解しよう](http://itpro.nikkeibp.co.jp/article/COLUMN/20130416/471167/?ST=develop)  SQLの基本が説明されている。正規化とか。
+
+## Smalltalk
+
+* [情熱Smalltalker SmalltalkとAWSでクラウドサービスを実現するための挑戦](http://www.slideshare.net/newapplesho/20140925smalltalk-study)
 
 ## Study
 
@@ -81,6 +92,8 @@
 * [950ページ超え！　Androidアプリの開発入門テキスト](http://masatolan.com/internet/android-app-book/)
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)  Pythonを使ったStanfordの授業教材
 * [Melanie Warrick - Neural Nets for Newbies - PyCon 2015 - YouTube](https://www.youtube.com/watch?v=g-BJSl4zV_g)
+* [情報科学における18のメタテクニック](http://www.slideshare.net/nakano_lab/cs-metatechniques)
+* [迷路で眺める探索アルゴリズム | 机上のにゅーろん](http://spheresofa.net/blog/?p=1044)
 
 
 ## 後で読む(その他)
@@ -113,8 +126,11 @@
 * [フリーのVM環境を使って、ビッグデータ分析の学習環境をすばやく構築する （1/3）：CodeZine](http://codezine.jp/article/detail/8560)
 * [Open-Closed Principle とデザインパターン](http://www.objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/dp-ocp-2.html)
 
+* [数々のエンジニアリングチームを導いた人物がマネジメントの中から学んだ教訓とは？ - GIGAZINE](http://gigazine.net/news/20150415-scaling-engineering-team/)
+* [Scala採用を決めて一年たった、CTOの雑感 | チャットワーククリエーターズブログ](http://c-note.chatwork.com/post/117441269280/scala1year)
+
+
 ## その他
 
 * [RapidSSL 1,300円 | SSLストア](http://www.ssl-store.jp/rapidssl/)
 * [nginxに1万円以下のワイルドカード証明書を導入してみた - HiLoTECH](http://www.hilotech.jp/blog/it/164)
-
