@@ -72,11 +72,12 @@
 
 * [運用を楽にするためのアプリケーションコードを書くということ - sonots:blog](http://blog.livedoor.jp/sonots/archives/44075238.html)
 * [マイクロサービス運用の所感 #m3dev](http://www.slideshare.net/seratch/microservices-ops)
+* [Terraform を Digital Ocean で触ってみた (初級編) - Qiita](http://qiita.com/voluntas/items/5d06157cfb01b7e2dfa5)
 
 ## AWS
 
 * [AWSクラウドデザインパターン](http://aws.clouddesignpattern.org/index.php/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)
- 
+
 ## MySQL
 
 * [MySQLテーブル設計入門](http://www.slideshare.net/yoku0825/mysql-47591576)
